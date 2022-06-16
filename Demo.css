@@ -1,0 +1,15 @@
+Header{
+     display:flex;
+     justify-content:space-between;
+}
+ul{
+      display:flex;
+      padding:20px;
+      Margin-left:60px;
+     
+      
+}
+nav{
+     width:20vw;
+      
+}
